@@ -1,1 +1,1 @@
-# bookmarks-api
+# bookmarks-server
