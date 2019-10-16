@@ -4,6 +4,8 @@ const {isWebUri} = require("valid-url");
 const logger = require("../logger");
 const store = require("../store");
 
+console.log(process.env.API_TOKEN)
+
 const bookmarksRouter = express.Router();
 const bodyParser = express.json();
 
